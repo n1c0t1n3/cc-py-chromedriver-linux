@@ -1,7 +1,7 @@
 ﻿Coded by n1c0t1n3
 
  
-CC-PY-Chromedriver (Linux version) v1.0
+CC-PY-Chromedriver (Linux version)
 
 
 <-- What is this? -->
